@@ -1,0 +1,2605 @@
+# Copyright Free to use granted by @c0r37py
+# martfury.3.2.4 RU Localization
+
+#: inc/functions/entry.php:32
+msgid " by "
+msgstr " от "
+
+#: inc/functions/entry.php:42
+#, php-format
+msgid " in %s"
+msgstr " в %s"
+
+#: woocommerce/content-mini-cart.php:10
+msgid " product was successfully added to your cart"
+msgstr " продукт был успешно добавлен в вашу корзину"
+
+#: woocommerce/content-mini-cart.php:8
+msgid " products were successfully added to your cart"
+msgstr " продукты были успешно добавлены в вашу корзину"
+
+#: inc/functions/comments.php:73
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s в %2$s"
+
+#. 1: reviews count 2: product name
+#: woocommerce/single-product-reviews.php:177
+#, php-format
+msgid "%1$s Review For This Product"
+msgid_plural "%1$s Reviews For This Product"
+msgstr[0] "%1$s Отзыв на этот продукт"
+msgstr[1] "%1$s Отзыва на этот продукт"
+
+#: inc/functions/breadcrumbs.php:259 inc/functions/breadcrumbs.php:267
+#: inc/functions/breadcrumbs.php:275
+#, php-format
+msgid "%s %s"
+msgstr "%s %s"
+
+#. %s: Quantity.
+#: woocommerce/global/quantity-input.php:25
+#, php-format
+msgid "%s quantity"
+msgstr "%s количество"
+
+#: woocommerce/cart/cart-totals.php:64
+#, php-format
+msgid "(estimated for %s)"
+msgstr "(предварительная оценка для %s)"
+
+#: inc/vendors/dokan.php:214 inc/vendors/dokan.php:246
+msgid "- Select a brand -"
+msgstr "- Выберите бренд -"
+
+#: inc/vendors/theme-options.php:189
+msgid "3 Columns"
+msgstr "3 колонки"
+
+#: inc/vendors/theme-options.php:186
+msgid "4 Columns"
+msgstr "4 колонки"
+
+#: inc/vendors/theme-options.php:188
+msgid "5 Columns"
+msgstr "5 колонок"
+
+#: inc/vendors/theme-options.php:187
+msgid "6 Columns"
+msgstr "6 колонок"
+
+#: woocommerce/myaccount/form-login.php:150
+msgid "A password will be sent to your email address."
+msgstr "Пароль будет отправлен на ваш адрес электронной почты."
+
+#: inc/mobile/theme-options.php:205 inc/mobile/theme-options.php:399
+#: inc/mobile/theme-options.php:545
+msgid "Account"
+msgstr "Учетная запись"
+
+#: inc/functions/header.php:268
+msgid "Account Settings"
+msgstr "Настройки учетной записи"
+
+#: inc/backend/plugins.php:148
+msgid "Activate installed plugin"
+msgid_plural "Activate installed plugins"
+msgstr[0] "Активировать установленный плагин"
+msgstr[1] "Активировать установленные плагины"
+
+#: woocommerce/loop/add-to-wishlist.php:28
+#, php-format
+msgid "Add %s to the wishlist"
+msgstr "Добавить %s в список желаемого"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:101
+msgid "Add a review"
+msgstr "Добавить отзыв"
+
+#: inc/modules/product-bought-together/frontend.php:366
+msgid "Add All To Cart"
+msgstr "Добавить все в корзину"
+
+#: inc/modules/product-bought-together/frontend.php:370
+msgid "Add All To Wishlist"
+msgstr "Добавить все в список желаемого"
+
+#: wc-vendors/dashboard/links.php:7
+msgid "Add New Product"
+msgstr "Добавить новый продукт"
+
+#: woocommerce/single-product/sticky-product-info.php:46
+msgid "Add to Cart"
+msgstr "Добавить в корзину"
+
+#: inc/mobile/theme-options.php:644
+msgid "Add to cart fixed"
+msgstr "Фиксировать добавление в корзину"
+
+#: inc/modules/product-bought-together/frontend.php:306
+msgid "Add to Package"
+msgstr "Добавить в пакет"
+
+#: woocommerce/loop/add-to-wishlist.php:31
+msgid "Add to wishlist"
+msgstr "Добавить в список желаемого"
+
+#: inc/backend/meta-boxes.php:352
+msgid "Add video thumbnail"
+msgstr "Добавить миниатюру видео"
+
+#: dokan/store-header.php:86 dc-vendors/widget/store-info.php:62
+#: wc-vendors/widget/store-info.php:71
+msgid "Address:"
+msgstr "Адрес:"
+
+#: inc/functions/entry.php:856
+msgid "All"
+msgstr "Все"
+
+#: inc/backend/plugins.php:151
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr "Все плагины успешно установлены и активированы. %s"
+
+#: inc/mega-menu/tmpl/content.php:9
+msgid "Allow HTML and Shortcodes"
+msgstr "Разрешить HTML и короткие коды"
+
+#: inc/vendors/theme-options.php:84 inc/vendors/theme-options.php:102
+msgid "Always on display"
+msgstr "Всегда на экране"
+
+#: inc/functions/entry.php:1169
+msgid "Apple"
+msgstr "Яблоко"
+
+#: woocommerce/cart/cart.php:209 woocommerce/checkout/form-coupon.php:43
+#: woocommerce/checkout/form-coupon.php:43
+msgid "Apply coupon"
+msgstr "Применить купон"
+
+#: inc/functions/breadcrumbs.php:24
+msgid "Archives"
+msgstr "Архивы"
+
+#: inc/backend/meta-boxes.php:65
+msgid "Audio"
+msgstr "Аудио"
+
+#: inc/backend/meta-boxes.php:113
+msgid "Author"
+msgstr "Автор"
+
+#: inc/backend/meta-boxes.php:121
+msgid "Author URL"
+msgstr "URL автора"
+
+#: inc/functions/breadcrumbs.php:29
+msgid "Author:"
+msgstr "Автор:"
+
+#: woocommerce/cart/cart.php:86
+msgid "Available on backorder"
+msgstr "Доступно для предзаказа"
+
+#: woocommerce/single-product-reviews.php:154
+msgid "Average"
+msgstr "Средний"
+
+#: woocommerce/single-product-reviews.php:43
+msgid "Average Rating"
+msgstr "Средний рейтинг"
+
+#: woocommerce/single-product/product-image.php:53
+msgid "Awaiting product image"
+msgstr "Ожидаем изображение продукта"
+
+#: inc/mobile/layout.php:468 inc/mobile/layout.php:479
+msgid "Back to"
+msgstr "Назад к"
+
+#: woocommerce/cart/cart.php:178
+msgid "Back To Shop"
+msgstr "Назад в магазин"
+
+#: inc/mega-menu/tmpl/menus.php:5
+msgid "Background"
+msgstr "Фон"
+
+#: inc/mega-menu/tmpl/background.php:93
+msgid "Background Attachment"
+msgstr "Прикрепление фона"
+
+#: inc/mega-menu/tmpl/background.php:21
+msgid "Background Color"
+msgstr "Цвет фона"
+
+#: inc/mega-menu/tmpl/background.php:4
+msgid "Background Image"
+msgstr "Изображение фона"
+
+#: inc/mega-menu/tmpl/background.php:46
+msgid "Background Position"
+msgstr "Положение фона"
+
+#: inc/mega-menu/tmpl/background.php:28
+msgid "Background Repeat"
+msgstr "Повтор фона"
+
+#: inc/vendors/wcfm_vendors.php:458
+msgid "Badges"
+msgstr "Значки"
+
+#: inc/backend/product-cat.php:91 inc/backend/product-cat.php:137
+#: inc/backend/product-cat.php:191 inc/backend/product-cat.php:267
+#: inc/backend/product-cat.php:351 inc/backend/product-cat.php:405
+msgid "Banners"
+msgstr "Баннеры"
+
+#: inc/backend/product-cat.php:103 inc/backend/product-cat.php:310
+msgid "Banners Link"
+msgstr "Ссылка на баннеры"
+
+#: woocommerce/single-product-reviews.php:101
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr "Будьте первым, кто оставит отзыв о &ldquo;%s&rdquo;"
+
+#: inc/backend/plugins.php:147
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Начать установку плагина"
+msgstr[1] "Начать установку плагинов"
+
+#: inc/functions/entry.php:1168
+msgid "Behance"
+msgstr "Behance"
+
+#: woocommerce/myaccount/my-address.php:28
+#: woocommerce/myaccount/my-address.php:35
+msgid "Billing address"
+msgstr "Почтовый адрес"
+
+#: inc/functions/breadcrumbs.php:25
+msgid "Blog"
+msgstr "Блог"
+
+#: functions.php:108
+msgid "Blog Sidebar"
+msgstr "Боковая панель блога"
+
+#: inc/mega-menu/tmpl/background.php:80
+msgid "Bottom"
+msgstr "Низ"
+
+#: inc/backend/meta-boxes.php:260
+msgid "Bottom Space"
+msgstr "Пространство внизу"
+
+#: inc/backend/product-cat.php:142 inc/backend/product-cat.php:356
+#: inc/vendors/dokan.php:242
+msgid "Brands"
+msgstr "Бренды"
+
+#: inc/vendors/theme-options.php:141
+msgid "Breadcrumb"
+msgstr "Навигационные метки"
+
+#: inc/frontend/wcboost-wishlist.php:45
+msgid "Browse"
+msgstr "Просмотр"
+
+#: inc/modules/product-bought-together/frontend.php:372
+msgid "Browse Wishlist"
+msgstr "Просмотр списка желаемого"
+
+#: inc/mobile/theme-options.php:311
+msgid "Button & Counter Background Color"
+msgstr "Цвет фона кнопки и счетчика"
+
+#: inc/mobile/theme-options.php:329
+msgid "Button & Counter Text Color"
+msgstr "Цвет текста кнопки и счетчика"
+
+#: wc-vendors/store/store-ratings.php:58
+#: woocommerce/single-product/review-meta.php:35
+msgid "by"
+msgstr "от"
+
+#: inc/vendors/theme-options.php:307 inc/vendors/theme-options.php:324
+msgid "By The Plugin"
+msgstr "По плагину"
+
+#: inc/vendors/theme-options.php:306 inc/vendors/theme-options.php:323
+msgid "By The Theme"
+msgstr "По теме"
+
+#: dc-vendors/widget/store-info.php:101 wc-vendors/widget/store-info.php:118
+msgid "Call us directly"
+msgstr "Позвоните нам напрямую"
+
+#: inc/mega-menu/class-menu-edit.php:204 woocommerce/loop/orderby.php:79
+msgid "Cancel"
+msgstr "Отмена"
+
+#: inc/mobile/theme-options.php:204 inc/mobile/theme-options.php:396
+#: inc/mobile/theme-options.php:495
+msgid "Cart"
+msgstr "Корзина"
+
+#: inc/mobile/theme-options.php:500
+msgid "Cart Icon Behaviour"
+msgstr "Поведение значка корзины"
+
+#: woocommerce/cart/cart-totals.php:28
+msgid "Cart totals"
+msgstr "Итоги корзины"
+
+#: inc/mobile/theme-options.php:794
+msgid "Catalog"
+msgstr "Каталог"
+
+#: inc/vendors/theme-options.php:26
+msgid "Catalog Page"
+msgstr "Страница каталога"
+
+#: functions.php:115 inc/mobile/theme-options.php:90
+msgid "Catalog Sidebar"
+msgstr "Боковая панель каталога"
+
+#: inc/backend/product-cat.php:147 inc/backend/product-cat.php:361
+msgid "Categories Box"
+msgstr "Коробка категорий"
+
+#: woocommerce/single-product/meta.php:47
+msgid "Categories:"
+msgstr "Категории:"
+
+#: inc/mobile/layout.php:459 inc/mobile/theme-options.php:394
+#: inc/mobile/theme-options.php:437
+msgid "Category"
+msgstr "Категория"
+
+#: inc/backend/product-cat.php:112 inc/backend/product-cat.php:322
+msgid "Category Layout"
+msgstr "Макет категории"
+
+#: inc/mobile/theme-options.php:449
+msgid "Category Panel Link"
+msgstr "Ссылка на панель категорий"
+
+#: inc/mobile/theme-options.php:442
+msgid "Category Panel Title"
+msgstr "Название панели категорий"
+
+#: woocommerce/single-product/meta.php:49
+msgid "Category:"
+msgstr "Категория:"
+
+#: inc/mega-menu/tmpl/background.php:54
+msgid "Center"
+msgstr "Центр"
+
+#: woocommerce/cart/cart-shipping.php:52
+msgid "Change address"
+msgstr "Изменить адрес"
+
+#: inc/mobile/theme-options.php:800
+msgid "Check pages to show the recently viewed products on mobile."
+msgstr "Проверьте страницы, чтобы показать недавно просмотренные товары на мобильном."
+
+#: inc/mobile/theme-options.php:603
+msgid "Check this option to collapse the filter on catalog sidebar."
+msgstr "Проверьте эту опцию, чтобы свернуть фильтр в боковой панели каталога."
+
+#: inc/mobile/theme-options.php:648
+msgid "Check this option to enable add to cart button fixed on mobile."
+msgstr "Проверьте эту опцию, чтобы включить кнопку 'добавить в корзину' для мобильных."
+
+#: inc/mobile/theme-options.php:483
+msgid "Check this option to enable hot words below search box on mobile"
+msgstr "Проверьте эту опцию, чтобы включить горячие слова ниже поля поиска на мобильном."
+
+#: inc/mobile/theme-options.php:656
+msgid "Check this option to enable product sidebar on mobile."
+msgstr "Проверьте эту опцию, чтобы включить боковую панель продукта на мобильном."
+
+#: inc/mobile/theme-options.php:664
+msgid "Check this option to enable sticky product info on the product page."
+msgstr "Проверьте эту опцию, чтобы включить закрепленную информацию о продукте на странице товара."
+
+#: inc/vendors/theme-options.php:199
+msgid "Check this option to enable the full width in the vendor dashboard."
+msgstr "Проверьте эту опцию, чтобы включить полный ширину в панели управления продавца."
+
+#: inc/vendors/theme-options.php:126
+msgid "Check this option to enable the full width in the vendor page."
+msgstr "Проверьте эту опцию, чтобы включить полный ширину на странице продавца."
+
+#: inc/mobile/theme-options.php:594
+msgid "Check this option to show featured icons in the product item."
+msgstr "Проверьте эту опцию, чтобы показать значки в товаре."
+
+#: inc/mobile/theme-options.php:752
+msgid "Check this option to show the footer info on mobile."
+msgstr "Проверьте эту опцию, чтобы показать информацию в нижнем колонтитуле на мобильном."
+
+#: inc/mobile/theme-options.php:768
+msgid "Check this option to show the footer link on mobile."
+msgstr "Проверьте эту опцию, чтобы показать ссылку в нижнем колонтитуле на мобильном."
+
+#: inc/mobile/theme-options.php:744
+msgid "Check this option to show the footer newsletter on mobile."
+msgstr "Проверьте эту опцию, чтобы показать рассылку в нижнем колонтитуле на мобильном."
+
+#: inc/mobile/theme-options.php:760
+msgid "Check this option to show the footer widgets on mobile."
+msgstr "Проверьте эту опцию, чтобы показать виджеты в нижнем колонтитуле на мобильном."
+
+#: inc/mobile/theme-options.php:382
+msgid ""
+"Check this option to show the navigation buttons in the bottom of the page."
+msgstr "Проверьте эту опцию, чтобы показать кнопки навигации внизу страницы."
+
+#: inc/mobile/theme-options.php:678
+msgid "Check this option to show the product tabs collapse on product page."
+msgstr "Проверьте эту опцию, чтобы показать свернутые вкладки продукта на странице товара."
+
+#: inc/mobile/theme-options.php:784
+msgid "Check this option to show the recently viewed products on mobile."
+msgstr "Проверьте эту опцию, чтобы показать недавно просмотренные товары на мобильном."
+
+#: inc/mobile/theme-options.php:586
+msgid "Check this option to show variation images in the product item."
+msgstr "Проверьте эту опцию, чтобы показать изображения вариаций в товаре."
+
+#: inc/modules/product-bought-together/product-meta.php:106
+msgid "Checked All"
+msgstr "Выбрано все"
+
+#: woocommerce/content-mini-cart.php:35
+msgid "Checkout"
+msgstr "Оформление заказа"
+
+#: woocommerce/single-product/add-to-cart/variable.php:54
+msgid "Clear"
+msgstr "Очистить"
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Click here to enter your code"
+msgstr "Нажмите здесь, чтобы ввести ваш код"
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Click here to login"
+msgstr "Нажмите здесь, чтобы войти"
+
+#: inc/mobile/theme-options.php:461
+msgid "Click on menu icons"
+msgstr "Нажмите на значки меню"
+
+#: inc/mobile/theme-options.php:460
+msgid "Click on menu items"
+msgstr "Нажмите на элементы меню"
+
+#: woocommerce/single-product/product-image.php:74
+msgid "Click to open expanded view"
+msgstr "Нажмите, чтобы открыть расширенный просмотр"
+
+#: inc/mega-menu/class-menu-edit.php:186 inc/mobile/theme-options.php:612
+#: inc/mobile/theme-options.php:687 template-parts/mobile/cart.php:24
+msgid "Close"
+msgstr "Закрыть"
+
+#: inc/frontend/footer.php:192
+msgid "Close (Esc)"
+msgstr "Закрыть (Esc)"
+
+#: inc/mobile/theme-options.php:607 inc/mobile/theme-options.php:682
+msgid "Collapse Status"
+msgstr "Статус свернуть"
+
+#. Name of the template
+msgid "Coming Soon Page"
+msgstr "Страница Скоро"
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#. 1: number of comments, 2: post title
+#: comments.php:40
+#, php-format
+msgctxt "comments title"
+msgid "%s Comments"
+msgstr "%s Комментарии"
+
+#. %s: post title
+#: comments.php:36
+msgctxt "comments title"
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/mobile/theme-options.php:202 inc/mobile/theme-options.php:398
+#: inc/mobile/theme-options.php:532 woocommerce/loop/add-to-compare.php:27
+#: woocommerce/loop/add-to-compare.php:30
+msgid "Compare"
+msgstr "Сравнить"
+
+#: woocommerce/loop/add-to-compare.php:26
+#, php-format
+msgid "Compare %s"
+msgstr "Сравнить %s"
+
+#: inc/backend/plugins.php:62
+msgid "Contact Form 7"
+msgstr "Контактная форма 7"
+
+#: comments.php:82
+msgid "Content"
+msgstr "Содержимое"
+
+#: inc/functions/entry.php:107
+#, php-format
+msgid "Continue reading &quot;%s&quot;"
+msgstr "Продолжить чтение &quot;%s&quot;"
+
+#: woocommerce/cart/cart.php:207 woocommerce/checkout/form-coupon.php:39
+msgid "Coupon code"
+msgstr "Код купона"
+
+#: woocommerce/cart/cart.php:205
+msgid "Coupon Discount"
+msgstr "Скидка по купону"
+
+#: inc/mega-menu/tmpl/background.php:60 inc/mega-menu/tmpl/background.php:83
+msgid "Custom"
+msgstr "Пользовательский"
+
+#: inc/backend/product-meta-box-data.php:123 inc/vendors/wcfm_vendors.php:469
+msgid "Custom Badge Text"
+msgstr "Текст пользовательского значка"
+
+#: inc/vendors/theme-options.php:288
+msgid "Custom Fields"
+msgstr "Пользовательские поля"
+
+#: inc/mobile/theme-options.php:225
+msgid "Custom Header Skin"
+msgstr "Пользовательская тема заголовка"
+
+#: inc/backend/meta-boxes.php:194
+msgid "Custom Layout"
+msgstr "Пользовательский макет"
+
+#: inc/backend/meta-boxes.php:222
+msgid "Custom Page Header"
+msgstr "Пользовательский заголовок страницы"
+
+#: inc/backend/product-cat.php:226 inc/backend/product-cat.php:452
+msgid "Custom Sidebar"
+msgstr "Пользовательская боковая панель"
+
+#: inc/backend/meta-boxes.php:153
+msgid "Custom Style"
+msgstr "Пользовательский стиль"
+
+#: inc/vendors/theme-options.php:115
+msgid "Custom Vendor Logged Link"
+msgstr "Пользовательская ссылка для зарегистрированного продавца"
+
+#: wc-vendors/store/store-ratings.php:25
+msgid "Customer Ratings"
+msgstr "Оценка клиентов"
+
+#: inc/functions/breadcrumbs.php:30
+msgid "Daily:"
+msgstr "Ежедневно:"
+
+#: inc/functions/header.php:180 inc/functions/header.php:193
+#: inc/functions/header.php:204 inc/functions/header.php:266
+#: wc-vendors/dashboard/links.php:2
+msgid "Dashboard"
+msgstr "Панель управления"
+
+#: inc/vendors/theme-options.php:226
+msgid "Dashboard Layout"
+msgstr "Макет панели управления"
+
+#: inc/frontend/header.php:118
+msgid "days"
+msgstr "дней"
+
+#: inc/backend/meta-boxes.php:286 inc/backend/meta-boxes.php:297
+#: inc/backend/product-cat.php:48 inc/backend/product-cat.php:54
+msgid "Default"
+msgstr "По умолчанию"
+
+#: inc/vendors/theme-options.php:232
+msgid "Default by the plugin"
+msgstr "По умолчанию от плагина"
+
+#: inc/vendors/theme-options.php:231
+msgid "Default by the theme"
+msgstr "По умолчанию от темы"
+
+#: inc/backend/product-cat.php:97 inc/backend/product-cat.php:289
+#: inc/backend/product-cat.php:303
+msgid "Delete"
+msgstr "Удалить"
+
+#: inc/backend/product-cat.php:96 inc/backend/product-cat.php:289
+#: inc/backend/product-cat.php:302
+msgid "Delete image"
+msgstr "Удалить изображение"
+
+#: inc/backend/meta-boxes.php:81
+msgid "Description"
+msgstr "Описание"
+
+#: inc/functions/entry.php:1165
+msgid "Deviantart"
+msgstr "Deviantart"
+
+#: inc/modules/product-bought-together/product-meta.php:97
+msgid "Discount"
+msgstr "Скидка"
+
+#: inc/vendors/theme-options.php:83 inc/vendors/theme-options.php:101
+msgid "Display after on hover"
+msgstr "Отображать после наведения"
+
+#: inc/backend/meta-boxes.php:183
+msgid "Display Settings"
+msgstr "Настройки отображения"
+
+#: inc/vendors/theme-options.php:85
+msgid "Display vendor profile"
+msgstr "Отображать профиль продавца"
+
+#: inc/frontend/footer.php:367
+msgid "Don't show this popup again"
+msgstr "Не показывать это всплывающее окно снова"
+
+#. Author of the theme
+msgid "DrFuri"
+msgstr "DrFuri"
+
+#: inc/functions/entry.php:1159
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: inc/functions/comments.php:86 woocommerce/myaccount/my-address.php:62
+msgid "Edit"
+msgstr "Редактировать"
+
+#: inc/vendors/dokan.php:158
+msgid "Edit Account"
+msgstr "Редактировать аккаунт"
+
+#: wc-vendors/dashboard/links.php:8
+msgid "Edit Products"
+msgstr "Редактировать продукты"
+
+#: inc/backend/plugins.php:110
+msgid "Elementor Page Builder"
+msgstr "Конструктор страниц Elementor"
+
+#: inc/backend/product-cat.php:127 inc/backend/product-cat.php:340
+#: inc/mobile/theme-options.php:196
+msgid "Elements"
+msgstr "Элементы"
+
+#: woocommerce/single-product-reviews.php:121 inc/frontend/entry.php:198
+msgid "Email"
+msgstr "Электронная почта"
+
+#: woocommerce/myaccount/form-login.php:133
+msgid "Email address"
+msgstr "Адрес электронной почты"
+
+#: dokan/store-header.php:108
+msgid "Email:"
+msgstr "Электронная почта:"
+
+#: inc/modules/product-bought-together/settings.php:84
+msgid "Enable"
+msgstr "Включить"
+
+#: inc/mobile/theme-options.php:479
+msgid "Enable Hot Words"
+msgstr "Включить горячие слова"
+
+#: inc/backend/product-meta-box-data.php:131 inc/vendors/wcfm_vendors.php:480
+msgid ""
+"Enable to set this product as a new product. A \"New\" badge will be added "
+"to this product."
+msgstr ""
+"Включите, чтобы установить этот продукт как новый. К этому продукту будет добавлен значок \"Новый\"."
+
+#: woocommerce/cart/cart-shipping.php:67
+msgid "Enter a different address"
+msgstr "Введите другой адрес"
+
+#: inc/backend/product-cat.php:106 inc/backend/product-cat.php:315
+msgid "Enter links for each banner here. Divide links with linebreaks (Enter)."
+msgstr "Введите ссылки для каждого баннера здесь. Разделяйте ссылки переносами строк (Enter)."
+
+#: inc/backend/product-meta-box-data.php:124
+msgid "Enter this optional to show your badges."
+msgstr "Введите это необязательно, чтобы показать свои значки."
+
+#: inc/backend/meta-boxes.php:344
+msgid ""
+"Enter URL of Youtube or Vimeo or specific filetypes such as mp4, webm, ogv."
+msgstr ""
+"Введите URL Youtube или Vimeo или конкретные типы файлов, такие как mp4, webm, ogv."
+
+#: woocommerce/cart/cart-shipping.php:61
+msgid "Enter your address to view shipping options."
+msgstr "Введите свой адрес, чтобы просмотреть варианты доставки."
+
+#: inc/backend/product-meta-box-data.php:74
+msgid "Extra"
+msgstr "Дополнительно"
+
+#: inc/functions/entry.php:1150
+msgid "Facebook"
+msgstr "Facebook"
+
+#: inc/backend/product-cat.php:174 inc/backend/product-cat.php:388
+msgid "Featured Categories"
+msgstr "Рекомендуемые категории"
+
+#: inc/mobile/theme-options.php:556 inc/mobile/theme-options.php:822
+#: inc/mobile/theme-options.php:831
+msgid "Filter"
+msgstr "Фильтр"
+
+#: inc/mobile/theme-options.php:599
+msgid "Filter Collapse"
+msgstr "Свернуть фильтр"
+
+#: inc/mobile/theme-options.php:563
+msgid "Filter Panel Title"
+msgstr "Заголовок панели фильтра"
+
+#: inc/mobile/layout.php:362
+msgid "Filter Products"
+msgstr "Фильтровать товары"
+
+#: inc/mobile/theme-options.php:631
+msgid "Filter Products Status"
+msgstr "Статус фильтра товаров"
+
+#: inc/mobile/theme-options.php:829
+msgid "Filter Text"
+msgstr "Текст фильтра"
+
+#: dokan/global/seller-registration-form.php:16
+msgid "First Name"
+msgstr "Имя"
+
+#: inc/mega-menu/tmpl/background.php:100
+msgid "Fixed"
+msgstr "Фиксированный"
+
+#: inc/functions/entry.php:1154
+msgid "Flickr"
+msgstr "Flickr"
+
+#: dokan/store-header.php:170 dc-vendors/widget/store-info.php:70
+#: wc-vendors/widget/store-info.php:79
+msgid "Follow us on social"
+msgstr "Следите за нами в социальных сетях"
+
+#: inc/mega-menu/tmpl/icon.php:17
+msgid "Font Icon"
+msgstr "Иконка шрифта"
+
+#: functions.php:126 inc/mobile/theme-options.php:112
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: inc/backend/meta-boxes.php:292
+msgid "Footer Container"
+msgstr "Контейнер нижнего колонтитула"
+
+#: inc/mobile/theme-options.php:750
+msgid "Footer Info"
+msgstr "Информация нижнего колонтитула"
+
+#: inc/mobile/theme-options.php:766
+msgid "Footer Link"
+msgstr "Ссылка нижнего колонтитула"
+
+#: functions.php:117
+msgid "Footer Links"
+msgstr "Ссылки нижнего колонтитула"
+
+#: inc/mobile/theme-options.php:742
+msgid "Footer Newsletter"
+msgstr "Рассылка новостей нижнего колонтитула"
+
+#: inc/mobile/theme-options.php:758
+msgid "Footer Widgets"
+msgstr "Виджеты нижнего колонтитула"
+
+#: woocommerce/myaccount/form-login.php:95
+msgid "Forgot your password?"
+msgstr "Забыли пароль?"
+
+#: inc/backend/meta-boxes.php:45
+msgid "Format Details"
+msgstr "Детали формата"
+
+#: inc/vendors/dc_vendors.php:203 inc/vendors/theme-options.php:295
+#: inc/vendors/wcfm_vendors.php:341
+#: inc/modules/product-bought-together/product-meta.php:54
+msgid "Frequently Bought Together"
+msgstr "Часто покупают вместе"
+
+#: wc-vendors/dashboard/date-picker.php:4
+msgid "From:"
+msgstr "С ";
+
+#. Name of the template
+#: inc/backend/meta-boxes.php:288 inc/backend/meta-boxes.php:299
+#: inc/vendors/theme-options.php:122 inc/vendors/theme-options.php:195
+msgid "Full Width"
+msgstr "Во всю ширину"
+
+#: inc/backend/meta-boxes.php:59
+msgid "Gallery"
+msgstr "Галерея"
+
+#: inc/mobile/theme-options.php:41 inc/mega-menu/tmpl/menus.php:13
+#: inc/mega-menu/tmpl/menus.php:20
+msgid "General"
+msgstr "Общие"
+
+#: inc/mobile/theme-options.php:714
+msgid "Go Back Button"
+msgstr "Кнопка 'Назад'"
+
+#: inc/mobile/theme-options.php:726
+msgid "Go Back to Previous Page"
+msgstr "Вернуться на предыдущую страницу"
+
+#: inc/mobile/theme-options.php:167
+msgid ""
+"Go to Appearance > Widgets > Topbar Left and Topbar Right to add widgets "
+"content."
+msgstr ""
+"Перейдите в Внешний вид > Виджеты > Левая верхняя панель и Правая верхняя панель, чтобы добавить содержимое виджетов."
+
+#: woocommerce/single-product-reviews.php:153
+msgid "Good"
+msgstr "Хорошо"
+
+#: inc/functions/entry.php:1152
+msgid "Google"
+msgstr "Google"
+
+#: inc/vendors/theme-options.php:169
+msgid "Grid"
+msgstr "Сетка"
+
+#: inc/backend/meta-boxes.php:318
+msgid "H1"
+msgstr "H1"
+
+#: inc/backend/meta-boxes.php:319
+msgid "H2"
+msgstr "H2"
+
+#: inc/backend/meta-boxes.php:320
+msgid "H3"
+msgstr "H3"
+
+#: inc/backend/meta-boxes.php:321
+msgid "H4"
+msgstr "H4"
+
+#: inc/backend/meta-boxes.php:322
+msgid "H5"
+msgstr "H5"
+
+#: inc/backend/meta-boxes.php:323
+msgid "H6"
+msgstr "H6"
+
+#: inc/frontend/header.php:189
+msgid "has been added to your cart."
+msgstr "был добавлен в вашу корзину."
+
+#: inc/frontend/header.php:205
+msgid "has been added to your wishlist."
+msgstr "был добавлен в ваш список желаемого."
+
+#: woocommerce/checkout/form-coupon.php:32
+msgid "Have a coupon?"
+msgstr "Есть купон?"
+
+#: inc/frontend/header.php:190
+msgid "have been added to your cart."
+msgstr "были добавлены в вашу корзину."
+
+#: inc/frontend/header.php:206
+msgid "have been added to your wishlist."
+msgstr "были добавлены в ваш список желаемого."
+
+#: inc/mobile/theme-options.php:69
+msgid "Header"
+msgstr "Заголовок"
+
+#: inc/vendors/theme-options.php:19
+msgid "Header Account"
+msgstr "Аккаунт заголовка"
+
+#: inc/mobile/theme-options.php:275
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+#: functions.php:112
+msgid "Header Bar"
+msgstr "Панель заголовка"
+
+#: inc/mobile/theme-options.php:190
+msgid "Header Bottom"
+msgstr "Нижний заголовок"
+
+#: inc/backend/meta-boxes.php:281
+msgid "Header Container"
+msgstr "Контейнер заголовка"
+
+#: inc/mobile/theme-options.php:701
+msgid "Header Layout"
+msgstr "Макет заголовка"
+
+#: inc/mobile/theme-options.php:293
+msgid "Header Text Color"
+msgstr "Цвет текста заголовка"
+
+#: inc/mobile/theme-options.php:189
+msgid "Header Top"
+msgstr "Верхний заголовок"
+
+#: inc/functions/header.php:134
+msgid "Hello,"
+msgstr "Здравствуйте,"
+
+#: inc/vendors/theme-options.php:86 inc/vendors/theme-options.php:103
+msgid "Hidden"
+msgstr "Скрыто"
+
+#: inc/mobile/theme-options.php:637
+msgid "Hide after selecting"
+msgstr "Скрыть после выбора"
+
+#: inc/backend/meta-boxes.php:236
+msgid "Hide Breadcrumb"
+msgstr "Скрыть крошки"
+
+#: inc/backend/meta-boxes.php:403
+msgid "Hide Navigation Menu"
+msgstr "Скрыть навигационное меню"
+
+#: inc/backend/meta-boxes.php:229
+msgid "Hide Page Header"
+msgstr "Скрыть заголовок страницы"
+
+#: inc/mega-menu/tmpl/general.php:16
+msgid "Hide Text"
+msgstr "Скрыть текст"
+
+#: inc/backend/meta-boxes.php:243
+msgid "Hide Title"
+msgstr "Скрыть заголовок"
+
+#: inc/functions/breadcrumbs.php:23 inc/mobile/theme-options.php:393
+#: inc/mobile/theme-options.php:424
+msgid "Home"
+msgstr "Главная"
+
+#. Name of the template
+#: inc/mobile/theme-options.php:793
+msgid "HomePage"
+msgstr "Главная страница"
+
+#: template-parts/content-404.php:27 inc/mobile/theme-options.php:152
+msgid "Homepage"
+msgstr "Домашняя страница"
+
+#. Name of the template
+msgid "HomePage Full Width"
+msgstr "Главная страница во всю ширину"
+
+#: inc/backend/meta-boxes.php:307 inc/mobile/theme-options.php:48
+msgid "Homepage Settings"
+msgstr "Настройки главной страницы"
+
+#: inc/mega-menu/class-mega-menu-walker.php:376
+#: inc/mega-menu/tmpl/general.php:24
+msgid "Hot"
+msgstr "Горячие"
+
+#: inc/frontend/header.php:119
+msgid "hours"
+msgstr "часов"
+
+#. Author URI of the theme
+msgid "http://demo2.drfuri.com"
+msgstr "http://demo2.drfuri.com"
+
+#. URI of the theme
+msgid "http://demo2.drfuri.com/martfury"
+msgstr "http://demo2.drfuri.com/martfury"
+
+#: dokan/global/seller-registration-form.php:83
+msgid "I am a customer"
+msgstr "Я клиент"
+
+#: dokan/global/seller-registration-form.php:90
+msgid "I am a vendor"
+msgstr "Я продавец"
+
+#: dokan/global/seller-registration-form.php:69
+#, php-format
+msgid ""
+"I have read and agree to the <a target=\"_blank\" href=\"%s\">Terms &amp; "
+"Conditions</a>."
+msgstr ""
+"Я прочитал(а) и соглашаюсь с <a target=\"_blank\" href=\"%s\">Условиями</a>."
+
+#: inc/mega-menu/tmpl/menus.php:8 inc/mega-menu/tmpl/menus.php:15
+#: inc/mega-menu/tmpl/menus.php:18
+msgid "Icon"
+msgstr "Иконка"
+
+#: inc/mega-menu/tmpl/icon.php:32
+msgid "Icon Color"
+msgstr "Цвет иконки"
+
+#: inc/mega-menu/tmpl/icon.php:15
+msgid "Icon Type"
+msgstr "Тип иконки"
+
+#: woocommerce/checkout/form-coupon.php:36
+msgid "If you have a coupon code, please apply it below."
+msgstr "Если у вас есть код купона, пожалуйста, введите его ниже."
+
+#: woocommerce/checkout/form-login.php:34
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer, please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+"Если вы уже делали покупки у нас, пожалуйста, введите свои данные в поля "
+"ниже. Если вы новый клиент, пожалуйста, перейдите к разделу 'Оплата и доставка'."
+
+#: inc/backend/meta-boxes.php:52
+msgid "Image"
+msgstr "Изображение"
+
+#: inc/vendors/wcfm_vendors.php:431
+msgid "Images"
+msgstr "Изображения"
+
+#: inc/frontend/wcboost-wishlist.php:116
+msgid "In Stock"
+msgstr "В наличии"
+
+#: inc/mobile/theme-options.php:55
+msgid "Inner Pages Settings"
+msgstr "Настройки внутренних страниц"
+
+#: inc/functions/entry.php:1161
+msgid "Instagram"
+msgstr "Instagram"
+
+#: inc/backend/plugins.php:136
+msgid "Install Plugins"
+msgstr "Установить плагины"
+
+#: inc/backend/plugins.php:135
+msgid "Install Required Plugins"
+msgstr "Установить необходимые плагины"
+
+#: inc/backend/plugins.php:137
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "Установка плагина: %s"
+
+#: inc/mega-menu/tmpl/general_2.php:10
+msgid "Is Label"
+msgstr "Является меткой"
+
+#: template-parts/content-none.php:28
+msgid ""
+"It seems we can’t find what you’re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Похоже, мы не можем найти то, что вы ищете. Возможно, поиск поможет."
+
+#: template-parts/content-404.php:26
+msgid ""
+"It seems we can't find what you're looking for. Perhaps searching can help "
+"or go back to "
+msgstr ""
+"Похоже, мы не можем найти то, что вы ищете. Возможно, поиск поможет, "
+"или вернуться на "
+
+#: inc/backend/plugins.php:23
+msgid "Kirki"
+msgstr "Kirki"
+
+#. Name of the template
+msgid "Large Container"
+msgstr "Большой контейнер"
+
+#: dokan/global/seller-registration-form.php:24
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: inc/backend/meta-boxes.php:189 inc/backend/meta-boxes.php:200
+msgid "Layout"
+msgstr "Макет"
+
+#: inc/backend/product-cat.php:49 inc/mobile/theme-options.php:706
+msgid "Layout 1"
+msgstr "Макет 1"
+
+#: inc/backend/product-cat.php:50 inc/mobile/theme-options.php:707
+msgid "Layout 2"
+msgstr "Макет 2"
+
+#: inc/backend/product-cat.php:51
+msgid "Layout 3"
+msgstr "Макет 3"
+
+#. %s is product title
+#: woocommerce/single-product-reviews.php:103
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Оставьте ответ на %s"
+
+#: inc/mega-menu/tmpl/background.php:51
+msgid "Left"
+msgstr "Слева"
+
+#: inc/vendors/theme-options.php:260
+msgid "Left Sidebar"
+msgstr "Левая боковая панель"
+
+#: inc/functions/media.php:30
+msgctxt "Libre-Baskerville font: on or off"
+msgid "on"
+msgstr "включено"
+
+#: inc/backend/meta-boxes.php:89
+msgid "Link"
+msgstr "Ссылка"
+
+#: inc/functions/entry.php:1157
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: inc/vendors/theme-options.php:170
+msgid "List"
+msgstr "Список"
+
+#: inc/functions/nav.php:32 woocommerce/loop/pagination.php:33
+msgid "Loading"
+msgstr "Загрузка"
+
+#: inc/functions/header.php:158 woocommerce/myaccount/form-login.php:54
+#: woocommerce/myaccount/form-login.php:100
+#: woocommerce/myaccount/form-login.php:100
+msgid "Log in"
+msgstr "Войти"
+
+#: woocommerce/myaccount/form-login.php:65
+msgid "Log In Your Account"
+msgstr "Войдите в свой аккаунт"
+
+#: inc/vendors/dokan.php:160
+msgid "Log out"
+msgstr "Выйти"
+
+#: woocommerce/global/form-login.php:56
+msgid "Login"
+msgstr "Вход"
+
+#: inc/functions/header.php:108 inc/mobile/theme-options.php:62
+#: inc/mobile/theme-options.php:347
+msgid "Logo"
+msgstr "Логотип"
+
+#: inc/mobile/theme-options.php:362
+msgid "Logo Height(px)"
+msgstr "Высота логотипа (пиксели)"
+
+#: inc/mobile/theme-options.php:368
+msgid "Logo Margin"
+msgstr "Поле логотипа"
+
+#: inc/mobile/theme-options.php:356
+msgid "Logo Width(px)"
+msgstr "Ширина логотипа (пиксели)"
+
+#: inc/functions/header.php:137
+msgid "Logout"
+msgstr "Выйти"
+
+#: woocommerce/global/form-login.php:59
+#: woocommerce/myaccount/form-lost-password.php:24
+msgid "Lost your password?"
+msgstr "Забыли пароль?"
+
+#: inc/backend/plugins.php:69
+msgid "MailChimp for WordPress"
+msgstr "MailChimp для WordPress"
+
+#: inc/frontend/footer.php:426 inc/mobile/theme-options.php:213
+msgid "Main Menu"
+msgstr "Главное меню"
+
+#. Name of the theme
+msgid "Martfury"
+msgstr "Martfury"
+
+#: inc/backend/plugins.php:44
+msgid "Martfury Addons"
+msgstr "Дополнения Martfury"
+
+#: inc/mega-menu/tmpl/mega.php:5 inc/mega-menu/tmpl/menus.php:3
+msgid "Mega Menu"
+msgstr "Мега меню"
+
+#: inc/mega-menu/tmpl/menus.php:4
+msgid "Mega Menu Background"
+msgstr "Фон мега меню"
+
+#: inc/mega-menu/tmpl/menus.php:2
+msgid "Mega Menu Content"
+msgstr "Содержимое мега меню"
+
+#: inc/mega-menu/tmpl/mega.php:11
+msgid "Mega Width"
+msgstr "Ширина мега меню"
+
+#: inc/mobile/theme-options.php:206
+msgid "Menu"
+msgstr "Меню"
+
+#: inc/mega-menu/tmpl/menus.php:10 inc/mega-menu/tmpl/menus.php:11
+msgid "Menu Content"
+msgstr "Содержимое меню"
+
+#: inc/mega-menu/tmpl/menus.php:12 inc/mega-menu/tmpl/menus.php:19
+msgid "Menu General"
+msgstr "Общее меню"
+
+#: inc/mega-menu/tmpl/menus.php:7 inc/mega-menu/tmpl/menus.php:14
+#: inc/mega-menu/tmpl/menus.php:17
+msgid "Menu Icon"
+msgstr "Иконка меню"
+
+#: inc/mobile/theme-options.php:211
+msgid "Menu Panel Title"
+msgstr "Заголовок панели меню"
+
+#: inc/backend/plugins.php:16
+msgid "Meta Box"
+msgstr "Метабокс"
+
+#: inc/mega-menu/tmpl/background.php:77
+msgid "Middle"
+msgstr "Посередине"
+
+#: inc/frontend/header.php:120
+msgid "minutes"
+msgstr "минут"
+
+#: inc/mobile/theme-options.php:19
+msgid "Mobile"
+msgstr "Мобильный"
+
+#: functions.php:74
+msgid "Mobile Category Menu"
+msgstr "Мобильное меню категорий"
+
+#: functions.php:73
+msgid "Mobile Header Menu"
+msgstr "Мобильное меню заголовка"
+
+#: inc/backend/meta-boxes.php:397
+msgid "Mobile Settings"
+msgstr "Настройки мобильного"
+
+#: inc/mobile/theme-options.php:138
+msgid "Mobile Version"
+msgstr "Мобильная версия"
+
+#: inc/functions/breadcrumbs.php:31
+msgid "Monthly:"
+msgstr "Ежемесячно:"
+
+#: inc/functions/header.php:248
+msgid "My Wishlist"
+msgstr "Мой список желаемого"
+
+#: woocommerce/single-product/meta.php:38
+msgid "N/A"
+msgstr "Нет данных"
+
+#: woocommerce/single-product-reviews.php:115 inc/frontend/entry.php:194
+msgid "Name"
+msgstr "Имя"
+
+#: inc/mobile/theme-options.php:76
+msgid "Navigation"
+msgstr "Навигация"
+
+#: inc/mobile/theme-options.php:543
+msgid "Navigation Account Text"
+msgstr "Текст аккаунта навигации"
+
+#: inc/mobile/theme-options.php:380
+msgid "Navigation Buttons"
+msgstr "Кнопки навигации"
+
+#: inc/mobile/theme-options.php:493
+msgid "Navigation Cart Text"
+msgstr "Текст корзины навигации"
+
+#: inc/mobile/theme-options.php:435
+msgid "Navigation Category Text"
+msgstr "Текст категории навигации"
+
+#: inc/mobile/theme-options.php:530
+msgid "Navigation Compare Text"
+msgstr "Текст сравнения навигации"
+
+#: inc/mobile/theme-options.php:388
+msgid "Navigation Elements"
+msgstr "Элементы навигации"
+
+#: inc/mobile/theme-options.php:422
+msgid "Navigation Home Text"
+msgstr "Текст главного навигации"
+
+#: inc/mobile/theme-options.php:404 inc/mobile/theme-options.php:570
+msgid "Navigation Panel Width(%)"
+msgstr "Ширина панели навигации(%)"
+
+#: inc/mobile/theme-options.php:472
+msgid "Navigation Search Text"
+msgstr "Текст поиска навигации"
+
+#: inc/mobile/theme-options.php:517
+msgid "Navigation Wishlist Text"
+msgstr "Текст списка желаемого навигации"
+
+#: inc/mega-menu/class-mega-menu-walker.php:379
+#: inc/mega-menu/tmpl/general.php:31
+msgid "New"
+msgstr "Новый"
+
+#: inc/backend/product-meta-box-data.php:130 inc/vendors/wcfm_vendors.php:476
+msgid "New product?"
+msgstr "Новый продукт?"
+
+#: inc/functions/nav.php:77
+msgid "Newer posts"
+msgstr "Новые записи"
+
+#: inc/mobile/theme-options.php:145
+msgid "NewsLetter Popup"
+msgstr "Всплывающее окно рассылки"
+
+#: comments.php:68 inc/functions/nav.php:97
+msgid "Next"
+msgstr "Следующий"
+
+#: inc/frontend/footer.php:221
+msgid "Next (arrow right)"
+msgstr "Следующий (стрелка вправо)"
+
+#: woocommerce/loop/pagination.php:28
+msgid "Next Page"
+msgstr "Следующая страница"
+
+#: inc/functions/nav.php:97
+msgid "Next Post"
+msgstr "Следующая запись"
+
+#: woocommerce/cart/mini-cart.php:109
+msgid "No products in the cart."
+msgstr "Нет товаров в корзине."
+
+#: wc-vendors/store/store-ratings.php:71
+msgid "No ratings have been submitted for this vendor yet."
+msgstr "Для этого продавца пока не было рейтингов."
+
+#: inc/mega-menu/tmpl/background.php:32
+msgid "No Repeat"
+msgstr "Без повтора"
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:66
+#, php-format
+msgid "No shipping options were found for %s."
+msgstr "Не найдено вариантов доставки для %s."
+
+#: inc/vendors/theme-options.php:259
+msgid "No Sidebar"
+msgstr "Без боковой панели"
+
+#: inc/backend/meta-boxes.php:287 inc/backend/meta-boxes.php:298
+msgid "Normal"
+msgstr "Нормальный"
+
+#: inc/functions/breadcrumbs.php:27 inc/mobile/layout.php:495
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: woocommerce/single-product-reviews.php:155
+msgid "Not that bad"
+msgstr "Не так уж и плохо"
+
+#: template-parts/content-none.php:13
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: inc/modules/product-bought-together/product-meta.php:110
+msgid "Number of items to get discount"
+msgstr "Количество товаров для получения скидки"
+
+#: template-parts/content-404.php:21 template-parts/content-404.php:23
+msgid "ohh! page not found"
+msgstr "Ой! Страница не найдена"
+
+#: inc/functions/nav.php:73
+msgid "Older posts"
+msgstr "Старые записи"
+
+#: woocommerce/single-product-reviews.php:168
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+"Только зарегистрированные клиенты, купившие этот продукт, могут оставить отзыв."
+
+#: inc/mobile/theme-options.php:613 inc/mobile/theme-options.php:688
+msgid "Open"
+msgstr "Открыть"
+
+#: inc/mobile/theme-options.php:455
+msgid "Open Submenus by"
+msgstr "Открыть подс_menu по"
+
+#: inc/mobile/theme-options.php:505
+msgid "Open the cart page"
+msgstr "Открыть страницу корзины"
+
+#: inc/mobile/theme-options.php:504
+msgid "Open the cart panel"
+msgstr "Открыть панель корзины"
+
+#: dc-vendors/widget/store-info.php:108 wc-vendors/widget/store-info.php:126
+msgid "Or contact seller via email"
+msgstr "Или свяжитесь с продавцом по электронной почте"
+
+#: inc/functions/header.php:182 inc/functions/header.php:195
+msgid "Orders"
+msgstr "Заказы"
+
+#: inc/functions/header.php:270
+msgid "Orders History"
+msgstr "История заказов"
+
+#: inc/backend/product-cat.php:179 inc/backend/product-cat.php:393
+msgid "Other Categories"
+msgstr "Другие категории"
+
+#: inc/mobile/theme-options.php:798
+msgid "Other Pages"
+msgstr "Другие страницы"
+
+#: inc/backend/meta-boxes.php:324
+msgid "P"
+msgstr "P"
+
+#: inc/mobile/theme-options.php:796
+msgid "Page"
+msgstr "Страница"
+
+#: inc/backend/meta-boxes.php:170
+msgid "Page Header Background"
+msgstr "Фон заголовка страницы"
+
+#: inc/vendors/theme-options.php:136
+msgid "Page Header Element"
+msgstr "Элемент заголовка страницы"
+
+#: inc/backend/meta-boxes.php:216
+msgid "Page Header Settings"
+msgstr "Настройки заголовка страницы"
+
+#: inc/frontend/entry.php:83
+msgid "Page Not Found"
+msgstr "Страница не найдена"
+
+#: functions.php:114
+msgid "Page Sidebar"
+msgstr "Боковая панель страницы"
+
+#: inc/backend/product-cat.php:132 inc/backend/product-cat.php:159
+#: inc/backend/product-cat.php:186 inc/backend/product-cat.php:346
+#: inc/backend/product-cat.php:373 inc/backend/product-cat.php:400
+msgid "Page Title"
+msgstr "Заголовок страницы"
+
+#: template-parts/content-page.php:16 template-parts/content-single.php:17
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: woocommerce/global/form-login.php:43 woocommerce/myaccount/form-login.php:80
+#: woocommerce/myaccount/form-login.php:142
+msgid "Password"
+msgstr "Пароль"
+
+#: woocommerce/single-product-reviews.php:152
+msgid "Perfect"
+msgstr "Идеально"
+
+#: dokan/global/seller-registration-form.php:52
+msgid "Phone Number"
+msgstr "Номер телефона"
+
+#: dokan/store-header.php:97
+msgid "Phone:"
+msgstr "Телефон:"
+
+#: inc/functions/entry.php:1158
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid ""
+"Please enter your username or email address. You will receive a link to "
+"create a new password via email."
+msgstr ""
+"Пожалуйста, введите свое имя пользователя или адрес электронной почты. Вы получите ссылку для создания нового пароля по электронной почте."
+
+#: inc/modules/product-bought-together/frontend.php:84
+msgid ""
+"Please select a purchasable variation for [name] before adding this product "
+"to the cart."
+msgstr ""
+"Пожалуйста, выберите доступную для покупки вариацию для [name] перед добавлением этого товара в корзину."
+
+#: inc/backend/plugins.php:150
+msgid "Plugin activated successfully."
+msgstr "Плагин успешно активирован."
+
+#: inc/functions/breadcrumbs.php:28
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: inc/mobile/theme-options.php:797
+msgid "Post"
+msgstr "Запись"
+
+#: inc/backend/meta-boxes.php:142
+msgid "Post Style Settings"
+msgstr "Настройки стиля записи"
+
+#: comments.php:67 inc/functions/nav.php:96
+msgid "Previous"
+msgstr "Предыдущий"
+
+#: inc/frontend/footer.php:217
+msgid "Previous (arrow left)"
+msgstr "Предыдущий (стрелка влево)"
+
+#: woocommerce/loop/pagination.php:29
+msgid "Previous Page"
+msgstr "Предыдущая страница"
+
+#: inc/functions/nav.php:96
+msgid "Previous Post"
+msgstr "Предыдущая запись"
+
+#: inc/frontend/wcboost-wishlist.php:106 woocommerce/cart/cart.php:30
+#: woocommerce/cart/cart.php:111
+msgid "Price"
+msgstr "Цена"
+
+#: woocommerce/cart/cart.php:92
+msgid "Price:"
+msgstr "Цена:"
+
+#: functions.php:71
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: woocommerce/cart/cart.php:29 woocommerce/cart/cart.php:61
+msgid "Product"
+msgstr "Продукт"
+
+#: inc/backend/meta-boxes.php:368 inc/vendors/theme-options.php:294
+#: inc/vendors/wcfm_vendors.php:413
+msgid "Product 360 View"
+msgstr "360-градусный вид продукта"
+
+#: inc/modules/product-bought-together/settings.php:56
+#: inc/modules/product-bought-together/settings.php:77
+#: inc/modules/product-bought-together/settings.php:83
+msgid "Product Bought Together"
+msgstr "Продукт, купленный вместе"
+
+#: inc/backend/product-cat.php:152 inc/backend/product-cat.php:366
+msgid "Product Carousel"
+msgstr "Карусель продуктов"
+
+#: inc/mobile/theme-options.php:83
+msgid "Product Catalog"
+msgstr "Каталог продуктов"
+
+#: inc/vendors/theme-options.php:181
+msgid "Product Columns"
+msgstr "Колонки продуктов"
+
+#: inc/backend/meta-boxes.php:382
+msgid "Product features description"
+msgstr "Описание характеристик продукта"
+
+#: inc/vendors/theme-options.php:210
+msgid "Product Numbers Per Page"
+msgstr "Количество продуктов на странице"
+
+#: inc/mobile/theme-options.php:104 inc/vendors/theme-options.php:47
+msgid "Product Page"
+msgstr "Страница продукта"
+
+#: woocommerce/global/quantity-input.php:58
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr "Кол-во"
+
+#: inc/mobile/theme-options.php:652
+msgid "Product Sidebar"
+msgstr "Боковая панель продукта"
+
+#: inc/mobile/theme-options.php:674
+msgid "Product Tabs Collapse"
+msgstr "Свернуть вкладки продукта"
+
+#: inc/backend/meta-boxes.php:334 inc/vendors/theme-options.php:293
+#: inc/vendors/wcfm_vendors.php:361
+msgid "Product Video"
+msgstr "Видео продукта"
+
+#: inc/functions/header.php:181 inc/functions/header.php:194
+#: inc/vendors/wc_vendors.php:192
+msgid "Products"
+msgstr "Продукты"
+
+#: inc/backend/product-cat.php:169 inc/backend/product-cat.php:196
+#: inc/backend/product-cat.php:383 inc/backend/product-cat.php:410
+msgid "Products Carousel"
+msgstr "Карусель продуктов"
+
+#: inc/vendors/theme-options.php:157
+msgid "Products Found"
+msgstr "Найденные продукты"
+
+#: woocommerce/content-mini-cart.php:23
+msgid "Qty"
+msgstr "Кол-во"
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:117
+#: woocommerce/global/quantity-input.php:25
+#: woocommerce/global/quantity-input.php:48
+msgid "Quantity"
+msgstr "Количество"
+
+#: inc/backend/meta-boxes.php:105
+msgid "Quote"
+msgstr "Цитата"
+
+#: woocommerce/single-product-reviews.php:151
+msgid "Rate&hellip;"
+msgstr "Оцените&hellip;"
+
+#: template-parts/content-none.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Готовы опубликовать свой первый пост? <a href=\"%1$s\">Начните здесь</a>."
+
+#: inc/functions/entry.php:1304 inc/functions/entry.php:1315
+msgid ""
+"Recently Viewed Products is a function which helps you keep track of your "
+"recent viewing history."
+msgstr ""
+"Функция 'Недавно просмотренные продукты' помогает отслеживать вашу "
+"недавнюю историю просмотров."
+
+#: inc/functions/header.php:142 woocommerce/myaccount/form-login.php:58
+#: woocommerce/myaccount/form-login.php:159
+#: woocommerce/myaccount/form-login.php:159
+msgid "Register"
+msgstr "Регистрация"
+
+#: woocommerce/myaccount/form-login.php:112
+msgid "Register An Account"
+msgstr "Зарегистрироваться"
+
+#: woocommerce/global/form-login.php:52 woocommerce/myaccount/form-login.php:92
+msgid "Remember me"
+msgstr "Запомнить меня"
+
+#: inc/mega-menu/tmpl/background.php:12
+msgid "Remove"
+msgstr "Удалить"
+
+#: inc/backend/product-cat.php:212 inc/backend/product-cat.php:434
+msgid "Remove image"
+msgstr "Удалить изображение"
+
+#: woocommerce/cart/cart.php:139 woocommerce/cart/cart.php:159
+#: woocommerce/cart/mini-cart.php:73
+msgid "Remove this item"
+msgstr "Удалить этот элемент"
+
+#: inc/mega-menu/tmpl/background.php:35
+msgid "Repeat"
+msgstr "Повторить"
+
+#: inc/mega-menu/tmpl/background.php:38
+msgid "Repeat Horizontally"
+msgstr "Повторить по горизонтали"
+
+#: inc/mega-menu/tmpl/background.php:41
+msgid "Repeat Vertically"
+msgstr "Повторить по вертикали"
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr "Сбросить пароль"
+
+#: inc/backend/plugins.php:149
+msgid "Return to Required Plugins Installer"
+msgstr "Вернуться к установщику необходимых плагинов"
+
+#: wc-vendors/store/store-ratings.php:74
+msgid "Return to store"
+msgstr "Вернуться в магазин"
+
+#: woocommerce/checkout/form-login.php:28
+msgid "Returning customer?"
+msgstr "Возвращающийся клиент?"
+
+#: woocommerce/single-product/rating.php:48
+msgid "Review"
+msgstr "Отзыв"
+
+#: woocommerce/single-product-reviews.php:179 inc/vendors/wc_vendors.php:197
+#: woocommerce/single-product/rating.php:48
+msgid "Reviews"
+msgstr "Отзывы"
+
+#: inc/backend/plugins.php:81
+msgid "Revolution Slider"
+msgstr "Revolution Slider"
+
+#: inc/mega-menu/tmpl/background.php:57
+msgid "Right"
+msgstr "Справа"
+
+#: inc/vendors/theme-options.php:261
+msgid "Right Sidebar"
+msgstr "Правую боковую панель"
+
+#: woocommerce/single-product/product-image.php:73
+msgid "Roll over image to zoom in"
+msgstr "Наведите на изображение, чтобы увеличить"
+
+#: inc/functions/entry.php:1164
+msgid "Rss"
+msgstr "RSS"
+
+#: inc/vendors/dc_vendors.php:180 inc/vendors/wcfm_vendors.php:252
+msgid "Sale quantity"
+msgstr "Количество на распродаже"
+
+#: inc/mega-menu/class-menu-edit.php:202
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: inc/modules/product-bought-together/frontend.php:342
+msgid "Save: "
+msgstr "Сохранить: "
+
+#: inc/mega-menu/tmpl/background.php:97
+msgid "Scroll"
+msgstr "Прокручивать"
+
+#: inc/mobile/theme-options.php:201 inc/mobile/theme-options.php:395
+#: inc/mobile/theme-options.php:474
+msgid "Search"
+msgstr "Поиск"
+
+#: inc/vendors/dc_vendors.php:207
+#: inc/modules/product-bought-together/product-meta.php:78
+msgid "Search for a product&hellip;"
+msgstr "Искать продукт&hellip;"
+
+#: inc/mega-menu/tmpl/icon.php:46
+msgid "Search Icon"
+msgstr "Иконка поиска"
+
+#: inc/frontend/entry.php:81
+msgid "Search Results"
+msgstr "Результаты поиска"
+
+#: inc/functions/breadcrumbs.php:26
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: inc/vendors/wc_vendors.php:204
+msgid "Search this shop"
+msgstr "Искать в этом магазине"
+
+#: template-parts/mobile/search.php:37
+msgid "Search Trending"
+msgstr "Популярный поиск"
+
+#: inc/frontend/header.php:121
+msgid "seconds"
+msgstr "секунд"
+
+#: inc/vendors/theme-options.php:257
+msgid "Select default layout for vendor page."
+msgstr "Выберите макет по умолчанию для страницы продавца."
+
+#: inc/mega-menu/tmpl/background.php:14
+msgid "Select Image"
+msgstr "Выберите изображение"
+
+#: inc/vendors/dokan.php:227 inc/vendors/dokan.php:259
+msgid "Select product brand"
+msgstr "Выберите бренд продукта"
+
+#: inc/modules/product-bought-together/product-meta.php:75
+msgid "Select Products"
+msgstr "Выберите продукты"
+
+#: inc/modules/product-bought-together/product-meta.php:94
+msgid "Select products for \"Frequently bought together\" group."
+msgstr "Выберите продукты для группы 'Часто покупают вместе'."
+
+#: inc/mobile/theme-options.php:559 inc/mobile/theme-options.php:825
+#: inc/vendors/theme-options.php:160
+msgid "Select which elements you want to show."
+msgstr "Выберите, какие элементы вы хотите показать."
+
+#: inc/vendors/wcfm_vendors.php:256
+msgid ""
+"Set this quantity will make the product to be a deal. The sale will end when "
+"this quantity is sold out."
+msgstr ""
+"Установите это количество, чтобы продукт стал сделкой. Распродажа закончится, "
+"когда это количество будет распродано."
+
+#: inc/vendors/wcfm_vendors.php:265
+msgid "Set this sold items should be less than the sale quantity."
+msgstr "Установите, чтобы проданные товары были меньше количества распродажи."
+
+#: inc/functions/header.php:183 inc/functions/header.php:196
+#: inc/mega-menu/class-menu-edit.php:118
+msgid "Settings"
+msgstr "Настройки"
+
+#: inc/frontend/footer.php:195 inc/functions/entry.php:1166
+msgid "Share"
+msgstr "Поделиться"
+
+#: woocommerce/myaccount/my-address.php:29
+msgid "Shipping address"
+msgstr "Адрес доставки"
+
+#: woocommerce/cart/cart-shipping.php:54
+msgid "Shipping options will be updated during checkout."
+msgstr "Варианты доставки будут обновлены во время оформления заказа."
+
+#. $s shipping destination.
+#: woocommerce/cart/cart-shipping.php:51
+#, php-format
+msgid "Shipping to %s."
+msgstr "Доставка в %s."
+
+#: functions.php:72
+msgid "Shop By Department Menu"
+msgstr "Меню 'Магазин по отделам'"
+
+#: inc/mobile/layout.php:606
+msgid "Shop By Departments"
+msgstr "Магазин по отделам"
+
+#: dokan/global/seller-registration-form.php:33
+msgid "Shop Name"
+msgstr "Название магазина"
+
+#: inc/functions/entry.php:1306 inc/functions/entry.php:1317
+msgid "Shop Now"
+msgstr "Купить сейчас"
+
+#: inc/functions/header.php:207
+msgid "Shop Settings"
+msgstr "Настройки магазина"
+
+#: dokan/global/seller-registration-form.php:41
+msgid "Shop URL"
+msgstr "URL магазина"
+
+#: wc-vendors/dashboard/date-picker.php:16
+msgid "Show"
+msgstr "Показать"
+
+#: inc/mobile/theme-options.php:636
+msgid "Show after selecting"
+msgstr "Показать после выбора"
+
+#: inc/mobile/theme-options.php:590
+msgid "Show Featured Icons"
+msgstr "Показать отмеченные иконки"
+
+#: inc/mobile/theme-options.php:780
+msgid "Show Recently Viewed"
+msgstr "Показать недавно просмотренные"
+
+#: inc/mobile/theme-options.php:788
+msgid "Show Recently Viewed in"
+msgstr "Показать недавно просмотренное в"
+
+#: inc/mobile/theme-options.php:582
+msgid "Show Variation Images"
+msgstr "Показать изображения вариаций"
+
+#: inc/backend/product-cat.php:202 inc/backend/product-cat.php:417
+msgid "Single Banner"
+msgstr "Единый баннер"
+
+#: inc/backend/product-cat.php:218 inc/backend/product-cat.php:441
+msgid "Single Banner Link"
+msgstr "Ссылка на единый баннер"
+
+#: functions.php:113
+msgid "Single Post Sidebar"
+msgstr "Боковая панель одиночного поста"
+
+#: inc/mobile/theme-options.php:795
+msgid "Single Product"
+msgstr "Одиночный продукт"
+
+#: functions.php:116
+msgid "Single Product Sidebar"
+msgstr "Боковая панель одиночного продукта"
+
+#: inc/backend/meta-boxes.php:275
+msgid "Site Settings"
+msgstr "Настройки сайта"
+
+#: inc/backend/meta-boxes.php:313
+msgid "Site Title(HTML Tag)"
+msgstr "Название сайта (HTML тег)"
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr "Артикул:"
+
+#: inc/functions/entry.php:1167
+msgid "Skype"
+msgstr "Skype"
+
+#: inc/vendors/theme-options.php:78
+msgid "Sold By"
+msgstr "Продается"
+
+#: inc/vendors/theme-options.php:318
+msgid "Sold By Layout"
+msgstr "Макет 'Продается'"
+
+#: inc/vendors/dc_vendors.php:189 inc/vendors/wcfm_vendors.php:261
+msgid "Sold Items"
+msgstr "Проданные товары"
+
+#: inc/backend/plugins.php:138
+msgid "Something went wrong with the plugin API."
+msgstr "Что-то пошло не так с API плагина."
+
+#: template-parts/content-none.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Извините, но ничего не соответствует вашим поисковым запросам. Пожалуйста, "
+"попробуйте еще раз с другими ключевыми словами."
+
+#: inc/backend/plugins.php:144
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to activate the %s plugin."
+" Contact the administrator of this site for help on getting the plugin "
+"activated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to activate the %s "
+"plugins. Contact the administrator of this site for help on getting the "
+"plugins activated."
+msgstr[0] "Извините, но у вас нет прав для активации плагина %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+msgstr[1] "Извините, но у вас нет прав для активации плагинов %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+
+#: inc/backend/plugins.php:141
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to install the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"installed."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to install the %s plugins."
+" Contact the administrator of this site for help on getting the plugins "
+"installed."
+msgstr[0] "Извините, но у вас нет прав для установки плагина %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+msgstr[1] "Извините, но у вас нет прав для установки плагинов %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+
+#: inc/backend/plugins.php:146
+#, php-format
+msgid ""
+"Sorry, but you do not have the correct permissions to update the %s plugin. "
+"Contact the administrator of this site for help on getting the plugin "
+"updated."
+msgid_plural ""
+"Sorry, but you do not have the correct permissions to update the %s plugins. "
+"Contact the administrator of this site for help on getting the plugins "
+"updated."
+msgstr[0] "Извините, но у вас нет прав для обновления плагина %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+msgstr[1] "Извините, но у вас нет прав для обновления плагинов %s. Пожалуйста, свяжитесь с администратором этого сайта за помощью."
+
+#: inc/mobile/theme-options.php:557
+msgid "Sort By"
+msgstr "Сортировать по"
+
+#: woocommerce/loop/orderby.php:45
+msgid "Sort by Default"
+msgstr "Сортировать по умолчанию"
+
+#: inc/vendors/theme-options.php:191
+msgid "Specify how many product columns you want to show."
+msgstr "Укажите, сколько колонок продуктов вы хотите отобразить."
+
+#: inc/vendors/theme-options.php:214
+msgid "Specify how many products you want to show on the vendor page"
+msgstr "Укажите, сколько продуктов вы хотите отобразить на странице продавца."
+
+#: inc/functions/entry.php:1160
+msgid "Spotify"
+msgstr "Spotify"
+
+#: woocommerce/single-product-reviews.php:65
+msgid "Star"
+msgstr "Звезда"
+
+#: inc/backend/meta-boxes.php:129
+msgid "Status"
+msgstr "Статус"
+
+#: woocommerce/single-product/stock.php:24
+msgid "Status:"
+msgstr "Статус:"
+
+#: inc/mobile/theme-options.php:177
+msgid "Sticky Header"
+msgstr "Плавающий заголовок"
+
+#: inc/mobile/theme-options.php:184
+msgid "Sticky Header Type"
+msgstr "Тип плавающего заголовка"
+
+#: inc/mobile/theme-options.php:660
+msgid "Sticky Product Info"
+msgstr "Закрепленная информация о продукте"
+
+#: inc/frontend/wcboost-wishlist.php:113
+msgid "Stock"
+msgstr "Запас"
+
+#: dokan/store-header.php:14
+msgid "Store Closed"
+msgstr "Магазин закрыт"
+
+#: inc/vendors/theme-options.php:274
+msgid "Store Header"
+msgstr "Заголовок магазина"
+
+#: inc/vendors/theme-options.php:301
+msgid "Store Layout Layout"
+msgstr "Макет магазина"
+
+#: dokan/store-header.php:13
+msgid "Store Open"
+msgstr "Магазин открыт"
+
+#: wc-vendors/dashboard/links.php:4
+msgid "Store Settings"
+msgstr "Настройки магазина"
+
+#: inc/backend/meta-boxes.php:148 inc/backend/meta-boxes.php:159
+msgid "Style"
+msgstr "Стиль"
+
+#: inc/backend/meta-boxes.php:163
+msgid "Style 1"
+msgstr "Стиль 1"
+
+#: inc/backend/meta-boxes.php:164
+msgid "Style 2"
+msgstr "Стиль 2"
+
+#: inc/backend/meta-boxes.php:165
+msgid "Style 3"
+msgstr "Стиль 3"
+
+#: inc/backend/meta-boxes.php:166
+msgid "Style 4"
+msgstr "Стиль 4"
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Submit"
+msgstr "Отправить"
+
+#: woocommerce/content-mini-cart.php:28 woocommerce/cart/cart-totals.php:33
+#: woocommerce/cart/cart-totals.php:34
+msgid "Subtotal"
+msgstr "Промежуточный итог"
+
+#: inc/modules/product-bought-together/frontend.php:337
+msgid "SubTotal: "
+msgstr "Промежуточный итог: "
+
+#: inc/mega-menu/tmpl/icon.php:18
+msgid "SVG Code"
+msgstr "SVG-код"
+
+#: woocommerce/single-product/meta.php:54
+msgid "Tag:"
+msgstr "Тег:"
+
+#. used between list items, there is a space after the comma
+#: inc/functions/entry.php:66
+msgid "Tags"
+msgstr "Теги"
+
+#: woocommerce/single-product/meta.php:52
+msgid "Tags:"
+msgstr "Теги:"
+
+#: inc/backend/meta-boxes.php:97
+msgid "Text"
+msgstr "Текст"
+
+#: inc/mega-menu/tmpl/background.php:106
+msgid "Text Color"
+msgstr "Цвет текста"
+
+#: inc/backend/meta-boxes.php:360 inc/vendors/wcfm_vendors.php:394
+msgid "The first product gallery"
+msgstr "Первая галерея продукта"
+
+#: inc/backend/plugins.php:145
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "Следующий плагин необходимо обновить до последней версии для обеспечения максимальной совместимости с этой темой: %1$s."
+msgstr[1] "Следующие плагины необходимо обновить до последней версии для обеспечения максимальной совместимости с этой темой: %1$s."
+
+#: inc/backend/plugins.php:143
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Следующий рекомендуемый плагин в данный момент неактивен: %1$s."
+msgstr[1] "Следующие рекомендуемые плагины в данный момент неактивны: %1$s."
+
+#: inc/backend/plugins.php:142
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Следующий обязательный плагин в данный момент неактивен: %1$s."
+msgstr[1] "Следующие обязательные плагины в данный момент неактивны: %1$s."
+
+#: inc/backend/meta-boxes.php:359 inc/vendors/wcfm_vendors.php:393
+msgid "The last product gallery"
+msgstr "Последняя галерея продукта"
+
+#: inc/frontend/entry.php:87
+msgid "The Latest Posts"
+msgstr "Последние посты"
+
+#: inc/backend/meta-boxes.php:428
+msgid ""
+"The Martfury Addons plugin needs to be updated to 2.3.0 to ensure maximum "
+"compatibility with this theme. Go to Plugins > Martfury Addons to update it."
+msgstr "Плагин Martfury Addons необходимо обновить до версии 2.3.0 для обеспечения максимальной совместимости с этой темой. Перейдите в Плагины > Martfury Addons, чтобы обновить его."
+
+#: woocommerce/single-product-reviews.php:205
+msgid "There are no reviews yet."
+msgstr "Отзывы отсутствуют."
+
+#: woocommerce/cart/cart-shipping.php:63
+msgid ""
+"There are no shipping options available. Please ensure that your address has "
+"been entered correctly, or contact us if you need any help."
+msgstr ""
+"Варианты доставки недоступны. Пожалуйста, убедитесь, что ваш адрес введен корректно, или свяжитесь с нами, если вам нужна помощь."
+
+#: inc/modules/product-bought-together/frontend.php:158
+msgid "This item:"
+msgstr "Этот товар:"
+
+#: inc/mobile/theme-options.php:348
+msgid "This logo is used for mobile."
+msgstr "Этот логотип используется для мобильных."
+
+#: inc/mobile/theme-options.php:192
+msgid "This option is used for homepage."
+msgstr "Эта опция используется для главной страницы."
+
+#: inc/backend/product-cat.php:213 inc/backend/product-cat.php:221
+#: inc/backend/product-cat.php:435 inc/backend/product-cat.php:446
+msgid "This option is used for the category is level 1 and layout 2."
+msgstr "Эта опция используется для категории на уровне 1 и макета 2."
+
+#: inc/modules/product-bought-together/frontend.php:245
+#: woocommerce/single-product/add-to-cart/variable.php:35
+msgid "This product is currently out of stock and unavailable."
+msgstr "Этот продукт в настоящее время отсутствует на складе и недоступен."
+
+#: inc/backend/meta-boxes.php:444
+msgid ""
+"This theme recommends installing and activating only one plugin Elementor or "
+"WPBakery Page Builder."
+msgstr ""
+"Эта тема рекомендует устанавливать и активировать только один плагин: Elementor или "
+"WPBakery Page Builder."
+
+#: inc/backend/plugins.php:140
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Эта тема рекомендует следующий плагин: %1$s."
+msgstr[1] "Эта тема рекомендует следующие плагины: %1$s."
+
+#: inc/backend/plugins.php:139
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Эта тема требует следующий плагин: %1$s."
+msgstr[1] "Эта тема требует следующие плагины: %1$s."
+
+#: wc-vendors/dashboard/date-picker.php:10
+msgid "To:"
+msgstr "По:"
+
+#: inc/frontend/footer.php:198
+msgid "Toggle fullscreen"
+msgstr "Переключить полноэкранный режим"
+
+#: inc/mobile/theme-options.php:551 inc/mobile/theme-options.php:817
+#: inc/vendors/theme-options.php:152
+msgid "ToolBar Elements"
+msgstr "Элементы панели инструментов"
+
+#: inc/mega-menu/tmpl/background.php:74
+msgid "Top"
+msgstr "Сверху"
+
+#: inc/mobile/theme-options.php:163
+msgid "Top Bar"
+msgstr "Верхняя панель"
+
+#: inc/mobile/theme-options.php:239
+msgid "Top Bar Background Color"
+msgstr "Цвет фона верхней панели"
+
+#: inc/mobile/theme-options.php:257
+msgid "Top Bar Text Color"
+msgstr "Цвет текста верхней панели"
+
+#: inc/backend/product-cat.php:164 inc/backend/product-cat.php:378
+msgid "Top Categories"
+msgstr "Главные категории"
+
+#: inc/backend/meta-boxes.php:250
+msgid "Top Space"
+msgstr "Верхнее пространство"
+
+#: functions.php:109
+msgid "Topbar Left"
+msgstr "Левый верхний бар"
+
+#: functions.php:111
+msgid "Topbar on Mobile"
+msgstr "Верхний бар на мобильном"
+
+#: functions.php:110
+msgid "Topbar Right"
+msgstr "Правый верхний бар"
+
+#: woocommerce/cart/cart-totals.php:85 woocommerce/cart/cart-totals.php:86
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:148
+msgid "Total"
+msgstr "Итого"
+
+#: inc/modules/product-bought-together/frontend.php:355
+msgid "Total Price: "
+msgstr "Общая цена: "
+
+#: woocommerce/cart/cart.php:101
+msgid "Total:"
+msgstr "Итого:"
+
+#: inc/mega-menu/class-mega-menu-walker.php:382
+#: inc/mega-menu/tmpl/general.php:38
+msgid "Trending"
+msgstr "Популярное"
+
+#: inc/functions/entry.php:1162
+msgid "Tumbleupon"
+msgstr "Tumbleupon"
+
+#: inc/functions/entry.php:1153
+msgid "Tumblr"
+msgstr "Tumblr"
+
+#: inc/functions/entry.php:1151
+msgid "Twitter"
+msgstr "Twitter"
+
+#: woocommerce/cart/cart.php:189
+msgid "Update cart"
+msgstr "Обновить корзину"
+
+#: inc/backend/product-cat.php:210 inc/backend/product-cat.php:432
+msgid "Upload/Add image"
+msgstr "Загрузить/Добавить изображение"
+
+#: inc/backend/product-cat.php:98 inc/backend/product-cat.php:304
+msgid "Upload/Add Images"
+msgstr "Загрузить/Добавить изображения"
+
+#: inc/mobile/theme-options.php:232
+msgid "Use Custom Header For Homepage"
+msgstr "Использовать пользовательский заголовок для главной страницы"
+
+#: functions.php:75
+msgid "User Logged Menu"
+msgstr "Меню для вошедших пользователей"
+
+#: woocommerce/myaccount/form-login.php:123
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: woocommerce/global/form-login.php:39
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr "Имя пользователя или email"
+
+#: woocommerce/myaccount/form-login.php:73
+msgid "Username or email address"
+msgstr "Имя пользователя или адрес электронной почты"
+
+#: inc/vendors/theme-options.php:40
+msgid "Vendor Dashboard"
+msgstr "Панель продавца"
+
+#: inc/vendors/theme-options.php:253
+msgid "Vendor Layout"
+msgstr "Макет продавца"
+
+#: functions.php:78
+msgid "Vendor Logged Menu"
+msgstr "Меню для вошедших продавцов"
+
+#: inc/vendors/theme-options.php:96 inc/vendors/theme-options.php:237
+msgid "Vendor Name"
+msgstr "Имя продавца"
+
+#: inc/mobile/theme-options.php:97 inc/vendors/theme-options.php:33
+msgid "Vendor Page"
+msgstr "Страница продавца"
+
+#: woocommerce/single-product/review-meta.php:39
+msgid "verified owner"
+msgstr "проверенный владелец"
+
+#: woocommerce/single-product-reviews.php:156
+msgid "Very poor"
+msgstr "Очень плохо"
+
+#: inc/backend/meta-boxes.php:73
+msgid "Video"
+msgstr "Видео"
+
+#: inc/backend/meta-boxes.php:355 inc/vendors/wcfm_vendors.php:388
+msgid "Video Position"
+msgstr "Позиция видео"
+
+#: inc/backend/meta-boxes.php:347 inc/vendors/wcfm_vendors.php:381
+msgid "Video Thumbnail"
+msgstr "Миниатюра видео"
+
+#: inc/backend/meta-boxes.php:340 inc/vendors/wcfm_vendors.php:374
+msgid "Video URL"
+msgstr "URL видео"
+
+#: inc/mobile/theme-options.php:823 inc/vendors/theme-options.php:158
+#: inc/vendors/theme-options.php:164
+msgid "View"
+msgstr "Просмотр"
+
+#: inc/frontend/header.php:191
+msgid "View Cart"
+msgstr "Посмотреть корзину"
+
+#: woocommerce/content-mini-cart.php:33
+msgid "View cart"
+msgstr "Посмотреть корзину"
+
+#: inc/frontend/header.php:207
+msgid "View Wishlist"
+msgstr "Посмотреть список желаемого"
+
+#: wc-vendors/dashboard/links.php:3
+msgid "View Your Store"
+msgstr "Посмотреть ваш магазин"
+
+#: inc/functions/entry.php:1155
+msgid "Vimeo"
+msgstr "Vimeo"
+
+#: inc/mega-menu/tmpl/general.php:9
+msgid "Visible Text"
+msgstr "Видимый текст"
+
+#: inc/functions/header.php:185 inc/functions/header.php:211
+#: inc/vendors/dokan.php:156
+msgid "Visit Store"
+msgstr "Посетить магазин"
+
+#: inc/backend/plugins.php:74
+msgid "WCBoost - Products Compare"
+msgstr "WCBoost - Сравнение продуктов"
+
+#: inc/backend/plugins.php:90
+msgid "WCBoost - Variation Swatches"
+msgstr "WCBoost - Образцы вариаций"
+
+#: inc/backend/plugins.php:37
+msgid "WCBoost - Wishlist"
+msgstr "WCBoost - Список желаемого"
+
+#: inc/frontend/entry.php:202
+msgid "Website"
+msgstr "Вебсайт"
+
+#: inc/mobile/theme-options.php:203
+msgid "WishList"
+msgstr "Список желаемого"
+
+#: inc/frontend/wcboost-wishlist.php:34 inc/mobile/theme-options.php:397
+#: inc/mobile/theme-options.php:519 woocommerce/loop/add-to-wishlist.php:29
+msgid "Wishlist"
+msgstr "Список желаемого"
+
+#: inc/functions/header.php:187
+msgid "Withdraw"
+msgstr "Вывод"
+
+#: inc/backend/plugins.php:30
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: inc/backend/plugins.php:53
+msgid "Woocommerce Deals"
+msgstr "Сделки WooCommerce"
+
+#. Description of the theme
+msgid "WooCommerce Marketplace WordPress Theme"
+msgstr "Тема WordPress для рынка WooCommerce"
+
+#: inc/functions/entry.php:1163
+msgid "WordPress"
+msgstr "WordPress"
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: inc/functions/media.php:26
+msgctxt "WorkSans font: on or off"
+msgid "on"
+msgstr "включено"
+
+#: inc/backend/plugins.php:101 inc/backend/plugins.php:118
+msgid "WPBakery Page Builder"
+msgstr "WPBakery Page Builder"
+
+#: woocommerce/single-product-reviews.php:159
+msgid "Write your review here..."
+msgstr "Напишите ваш отзыв здесь..."
+
+#: inc/functions/breadcrumbs.php:32
+msgid "Yearly:"
+msgstr "Ежегодно:"
+
+#: inc/functions/entry.php:1170
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/functions/breadcrumbs.php:16
+msgid "You are here: "
+msgstr "Вы находитесь здесь: "
+
+#: woocommerce/myaccount/my-address.php:59
+msgid "You have not set up this type of address yet."
+msgstr "Вы еще не настроили этот тип адреса."
+
+#. %s opening and closing link tags respectively
+#: woocommerce/single-product-reviews.php:146
+#, php-format
+msgid "You must be %slogged in%s to post a review."
+msgstr "Вы должны быть %sвошедшим%s, чтобы оставить отзыв."
+
+#: woocommerce/checkout/form-checkout.php:28
+msgid "You must be logged in to checkout."
+msgstr "Вы должны войти в систему, чтобы оформить заказ."
+
+#: inc/mobile/layout.php:511
+msgid "Your Cart Items"
+msgstr "Ваши товары в корзине"
+
+#: inc/functions/comments.php:77
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает модерации."
+
+#: woocommerce/checkout/form-checkout.php:57
+msgid "Your order"
+msgstr "Ваш заказ"
+
+#: woocommerce/single-product-reviews.php:150
+msgid "Your rating of this product"
+msgstr "Ваша оценка этого продукта"
+
+#: woocommerce/single-product/review-meta.php:29
+msgid "Your review is awaiting approval"
+msgstr "Ваш отзыв ожидает подтверждения"
+
+#: inc/functions/header.php:390
+msgid "Your Wishlist"
+msgstr "Ваш список желаемого"
+
+#: inc/functions/entry.php:1156
+msgid "Youtube"
+msgstr "YouTube"
+
+#: inc/frontend/footer.php:201
+msgid "Zoom in/out"
+msgstr "Увеличить/уменьшить"
