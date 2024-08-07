@@ -1,21 +1,6 @@
 # Copyright Free to use granted by @c0r37py
 # WooCommerce RU Localization
 
-msgid ""
-msgstr ""
-"Project-Id-Version: WooCommerce\n"
-"Report-Msgid-Bugs-To: https://github.com/woothemes/woocommerce/issues\n"
-"POT-Creation-Date: 2015-02-20 16:19:14+00:00\n"
-"PO-Revision-Date: 2018-04-21 14:37+0300\n"
-"Last-Translator: Almaz Mannanov <AlmazWorks@gmail.com>\n"
-"Language-Team: Russian (Russia) (http://www.transifex.com/projects/p/woocommerce/language/ru_RU/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-"Language: ru_RU\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Poedit 1.8.6\n"
-
 #: i18n/countries.php:18
 msgid "Afghanistan"
 msgstr "Афганистан"
